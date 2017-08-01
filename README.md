@@ -1,2 +1,3 @@
 # TCMapKit
-TCMapKit是一套基于百度地图的框架，方便在模块组件中使用，解决了静态库不可以被依赖的问题
+博客示例代码，博客地址[模块组件化之静态库运用](https://itanchao.github.io/2017/06/23/Module_Compoent.html)
+
